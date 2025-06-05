@@ -1,0 +1,12 @@
+.todo-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+}
+
+.empty-message {
+  color: #ccc;
+  font-style: italic;
+  margin-top: 20px;
+}
